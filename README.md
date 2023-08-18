@@ -1,8 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## To develop this project I reffered this template 
+``` bash 
+https://www.motocms.com/website-templates/demo/101735.html
+
+```
+
+
 ## Getting Started
 
-First, run the development server:
+First install the node package
+
+```bash
+npm install
+
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
